@@ -1,4 +1,4 @@
-﻿# Flipcart-product-scraping
+﻿# Flipkart-product-scraping
 
 Scrape Flipkart pages without an API key. 
 
